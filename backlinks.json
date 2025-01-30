@@ -1,0 +1,7 @@
+{
+  "backlinks": [
+    {"url": "https://link1.com", "text": "Link 1"},
+    {"url": "https://link2.com", "text": "Link 2"},
+    {"url": "https://link3.com", "text": "Link 3"}
+  ]
+}
