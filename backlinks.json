@@ -1,9 +1,9 @@
 {
   "backlinks": {
     "mangas": [
-      {"url": "https://manga1.com", "text": "Manga 1"},
-      {"url": "https://manga2.com", "text": "Manga 2"},
-      {"url": "https://manga3.com", "text": "Manga 3"}
+      {"url": "https://supermangas.blog/", "text": "Mangás online"},
+      {"url": "https://supermangas.blog/a/manga/ijiranaide-nagatoro-san", "text": "Ler Ijiranaide Nagatoro san - SUPER MANGAS"},
+      {"url": "https://supermangas.blog/a/manga/dr.-stone", "text": "Ler Dr. Stone"}
     ],
     "website": [
       {"url": "https://link1.com", "text": "Link 1"},
