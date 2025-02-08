@@ -1,5 +1,8 @@
 {
     "dominios": [
         "localhost"
+    ],
+    "destiny": [
+        "destino"
     ]
 }
