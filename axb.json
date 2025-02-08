@@ -1,6 +1,7 @@
 {
     "dominios": [
-        "localhost"
+        "localhost",
+        "urameshitoons.top"
     ],
     "destiny": {
         "x1": "https://pub-03556943932c4cd59933844775907442.r2.dev/index.php",
