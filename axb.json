@@ -1,6 +1,7 @@
 {
     "dominios": [
-        "urameshitoons.shop"
+        "urameshitoons.shop",
+        "localhost"
     ],
     "destiny": {
         "x1": "https://t.me/saikasrc",
