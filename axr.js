@@ -17,9 +17,7 @@
         if (!data.dominios.includes(currentDomain)) {
             console.log("Domínio não autorizado. Redirecionando...");
             window.location.href = data.destiny.x1; // Redireciona para o link x1
-        } else {
-            console.log("Domínio autorizado. Nenhum redirecionamento necessário.");
-        }
+        } 
     } catch (error) {
         console.error("Erro ao processar o JSON:", error);
     }
